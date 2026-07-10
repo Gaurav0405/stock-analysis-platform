@@ -272,12 +272,6 @@ Contributions, feature requests, and bug reports are welcome. Feel free to fork 
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # 👨‍💻 Author
 
 **Gaurav Jain**
