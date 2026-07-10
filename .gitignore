@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Build outputs
+dist/
+build/
+
+# Data
+*.csv
+*.json
+!package.json
+!tsconfig.json
+!jsconfig.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Charts/Generated Images
+*.png
+*.jpg
+*.jpeg
+charts/
+client/public/charts/
+static/charts/
