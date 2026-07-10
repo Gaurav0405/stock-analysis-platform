@@ -266,20 +266,6 @@ These metrics can be generated for any supported stock using the project's evalu
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots of:
->
-> - Dashboard
-> - Stock Forecast Page
-> - Technical Indicators
-> - News Sentiment Analysis
-> - Chart Image Analysis
-> - Monte Carlo Simulation
-> - Backtesting Results
-
----
-
 # 🤝 Contributing
 
 Contributions, feature requests, and bug reports are welcome. Feel free to fork the repository and submit a pull request.
